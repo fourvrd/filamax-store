@@ -405,4 +405,11 @@ img:hover
 	}
 	/*------------- Sekcja stopki --------------*/
 }
+@media screen and (orientation: landscape)
+{
+	.container {
+		padding-left: 2rem;
+		padding-right: 2rem;
+	}
+}
 /*--------------- Wersja desktop & tablet --------------*/
